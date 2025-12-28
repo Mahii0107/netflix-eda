@@ -54,7 +54,7 @@ Content additions experienced **explosive growth post-2015**, with peak expansio
 **Drama** and **Comedy** emerge as the platform's pillars, dominating the genre distribution and appealing to broad audience demographics.
 
 ### Global Production
-The **United States** leads content production, followed by **India** and the **United Kingdom**, showcasing Netflix's focus on English-language markets and growing Asian presence.
+The **United States** leads content production, followed by **India** and the **United Kingdom**.
 
 ### Audience Focus
 Rating analysis reveals concentration in **TV-MA** and **TV-14** categories, indicating strategic targeting of **teenage and adult audiences** over family-friendly content.
@@ -68,7 +68,7 @@ Movie runtimes cluster between **80-120 minutes**, adhering to traditional cinem
 
 ## 📂 Project Structure
 
-```
+
 Netflix-EDA/
 │
 ├── Netflix_data_cleaning.ipynb    # Main analysis notebook
@@ -94,10 +94,7 @@ jupyter notebook Netflix_data_cleaning.ipynb
 ## 💡 Future Enhancements
 
 - Build interactive Plotly/Dash dashboard
-- Implement dynamic filters (Year, Genre, Country, Content Type)
-- Add predictive modeling for content success
-- Integrate sentiment analysis on titles/descriptions
-- Create recommendation system prototype
+- Implement dynamic filters (Year, Genre, Country, Content Type.
 
 ---
 
@@ -108,7 +105,6 @@ jupyter notebook Netflix_data_cleaning.ipynb
 - Statistical Analysis
 - Data Visualization
 - Insight Generation
-- Business Intelligence
 
 ---
 
